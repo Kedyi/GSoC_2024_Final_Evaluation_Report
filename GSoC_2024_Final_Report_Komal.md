@@ -57,6 +57,17 @@ This made the controller more easy to handle and faster while sending commands.
  - Purpose: To provide an advanced simulation environment for rover movements in 3D.
  - Achievements: Successfully shifted to Webots, achieving a more efficient and manageable 3D simulation environment.
 
+## Controllers and Viewers:
+   |Controllers and Viewers|Images|
+   |--------------------------- | ------|
+   |GUI Executor Controller (Controller A)|![Screenshot 2024-08-26 085315](https://github.com/user-attachments/assets/390c0c09-f33f-4732-9294-e0b140365830)|
+   |Pygame Controller (Controller B) |![conr](https://github.com/user-attachments/assets/909ae670-ce89-4d05-945c-699c362c9635)|
+   |Server Simulation (Server Sim)|![Screenshot 2024-08-26 085426](https://github.com/user-attachments/assets/d7c07d8b-e7b3-4e24-970d-a116fbe32137)|
+   |Turtle Application (Viewer_2D A)|![viewer_A](https://github.com/user-attachments/assets/28a9169d-9dfe-4f21-a4df-0d6f971c054b)|
+   |Pygame Zero Viewer (Viewer_2D B)|![Screenshot 2024-08-26 085652](https://github.com/user-attachments/assets/85efc3e8-b773-4834-803e-f1ba07570446)|
+   |3D Viewer Transition (Viewer 3D)|![Screenshot (2416)](https://github.com/user-attachments/assets/45abb414-1d2e-447f-829b-4abf57713b71)|
+   
+
 ## Detailed Overview
 ### Viewers:
 The project features three main viewers: The Turtle Graphics Viewer provides a basic 2D representation using geometric shapes to visualize rover movements.
